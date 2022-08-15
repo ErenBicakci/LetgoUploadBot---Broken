@@ -1,0 +1,9 @@
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\LetgoUploadBot.exe
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\LetgoUploadBot.dll
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\LetgoUploadBot.deps.json
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\LetgoUploadBot.runtimeconfig.json
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\LetgoUploadBot.pdb
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\Newtonsoft.Json.dll
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\nunit.framework.dll
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\UndetectedChromeDriver.dll
+C:\Users\erenb\OneDrive\Masaüstü\LetgoBotSon\WebDriver.dll
